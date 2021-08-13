@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+my-java-11.iml
+.idea
